@@ -1,0 +1,9 @@
+glob
+tqdm
+email.message
+smtplib
+pptx
+collections
+collections.abc
+csv
+imghdr
