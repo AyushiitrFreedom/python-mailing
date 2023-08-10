@@ -86,7 +86,7 @@ with open('data.csv','r') as csv_file:
         time.sleep(1)
 
         EMAIL_ADDRESS = "ayushgoyal.thomso@gmail.com"
-        EMAIL_PASSWORD = "flhijugvzgeqqqgl"
+        EMAIL_PASSWORD = "your-key"
 
         contacts = [email1, email2, email3, email4]
 
