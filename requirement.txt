@@ -1,6 +1,6 @@
 
 tqdm
-email.message
+email
 python-pptx
 collections
 collections.abc
