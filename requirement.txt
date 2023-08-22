@@ -1,9 +1,8 @@
 glob
 tqdm
 email.message
-smtplib
-pptx
+python-pptx
 collections
 collections.abc
 csv
-imghdr
+comtypes
