@@ -2,7 +2,4 @@
 tqdm
 email
 python-pptx
-collections
-collections.abc
-csv
 comtypes
